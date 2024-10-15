@@ -41,7 +41,7 @@ migrate_working_dir/
 /test/
 
 #core
-/lib/core/
+lib/core/
 
 pubspec.lock
 
