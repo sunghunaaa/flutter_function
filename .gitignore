@@ -40,6 +40,9 @@ migrate_working_dir/
 
 /test/
 
+#core
+/lib/core/
+
 pubspec.lock
 
 # Symbolication related
